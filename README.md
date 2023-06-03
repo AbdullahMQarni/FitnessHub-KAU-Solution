@@ -18,7 +18,7 @@ Before you run the program make sure the files paths in lines 18, 47 and 62 are 
 
 --------
 
-make sure new_attendees is accessed through python script by following these steps:
+make sure new_attendees excel file is accessed through python script by following these steps:
 
 --------
 
